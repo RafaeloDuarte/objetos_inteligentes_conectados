@@ -1,4 +1,4 @@
-# objetos_inteligentes_conectados
+# Objetos Inteligentes Conectados
 Disciplina Objetos Inteligentes Conectados - ADS Mackenzie
 
 **Projeto: Monitor de Umidade com Arduino e Sensor AHT10**
